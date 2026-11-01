@@ -1,0 +1,15 @@
+[package]
+name = "swift-spotify-connect"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "swift_spotify_connect"
+crate-type = ["cdylib"]
+
+[dependencies]
+librespot = { path = "../../../../../third_party/librespot-dev", default-features = false, features = ["rustls-tls-webpki-roots", "rodio-backend", "with-libmdns"] }
+jni = "0.21"
+ndk-context = "0.1"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "sync", "time"] }
+futures-util = "0.3"

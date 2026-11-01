@@ -1,0 +1,2 @@
+﻿      state=PlaybackState {state=PLAYING(3), position=468, buffered position=60000, speed=1.0, updated=142412, actions=16252927, custom actions=[Action:mName='Stop, mIcon=2131165276, mExtras=null], active item id=0, error=null}
+      metadata: size=9, description=Network Audit, 127.0.0.1, null

@@ -1,0 +1,26 @@
+﻿[
+    {
+        "name":  "app-arm64-v8a-release.apk",
+        "bytes":  22125474,
+        "sha256":  "8091C86CCF29FD1DDFA007CE7BA50411F9E902A2B354D1D1740F15EEEA677F9B",
+        "version":  "1.2.1+4"
+    },
+    {
+        "name":  "app-armeabi-v7a-release.apk",
+        "bytes":  19577598,
+        "sha256":  "E65B188B9E7103F2E55248AC208529447E293AFC4963E5ED2528B4CB011B4383",
+        "version":  "1.2.1+4"
+    },
+    {
+        "name":  "app-release.apk",
+        "bytes":  59318288,
+        "sha256":  "0A6F93EDBB4DFF4C9488A188770BAB20191BD56B1747DAF71D41759ED80E5D06",
+        "version":  "1.2.1+4"
+    },
+    {
+        "name":  "app-x86_64-release.apk",
+        "bytes":  23682470,
+        "sha256":  "405C98C3839C3A530B29518E63D17F54C0619FB37D5EBBAFDE8257D13DD9963E",
+        "version":  "1.2.1+4"
+    }
+]

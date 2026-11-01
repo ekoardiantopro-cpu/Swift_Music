@@ -1,0 +1,2 @@
+﻿      state=PlaybackState {state=PAUSED(2), position=11513, buffered position=65500, speed=1.0, updated=126774, actions=16252927, custom actions=[Action:mName='Stop, mIcon=2131165276, mExtras=null], active item id=1, error=null}
+      metadata: size=7, description=Swift Local Test, Lagu lokal, On this device

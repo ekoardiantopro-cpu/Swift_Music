@@ -1,0 +1,12 @@
+﻿[
+    {
+        "step":  "before-song-end",
+        "state":  "state=PlaybackState {state=PLAYING(3), position=114794, buffered position=120000, speed=1.0, updated=258771, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=1, error=null}",
+        "metadata":  "Swift Local Test, Lagu lokal, On this device"
+    },
+    {
+        "step":  "after-song-end-background",
+        "state":  "state=PlaybackState {state=PAUSED(2), position=18, buffered position=65500, speed=1.0, updated=264007, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=1, error=null}",
+        "metadata":  "Swift Local Test, Lagu lokal, On this device"
+    }
+]

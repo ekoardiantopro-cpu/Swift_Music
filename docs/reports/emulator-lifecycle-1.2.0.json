@@ -1,0 +1,27 @@
+﻿[
+    {
+        "step":  "Home background",
+        "state":  "state=PlaybackState {state=PLAYING(3), position=38750, buffered position=120000, speed=1.0, updated=33148137, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=0, error=null}",
+        "metadata":  "Swift Local Test, Lagu lokal, On this device"
+    },
+    {
+        "step":  "OS pause",
+        "state":  "state=PlaybackState {state=PAUSED(2), position=42106, buffered position=120000, speed=1.0, updated=33151419, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=0, error=null}",
+        "metadata":  "Swift Local Test, Lagu lokal, On this device"
+    },
+    {
+        "step":  "OS play",
+        "state":  "state=PlaybackState {state=PLAYING(3), position=42107, buffered position=120000, speed=1.0, updated=33152516, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=0, error=null}",
+        "metadata":  "Swift Local Test, Lagu lokal, On this device"
+    },
+    {
+        "step":  "Screen off",
+        "state":  "state=PlaybackState {state=PLAYING(3), position=42107, buffered position=120000, speed=1.0, updated=33152516, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=0, error=null}",
+        "metadata":  "Swift Local Test, Lagu lokal, On this device"
+    },
+    {
+        "step":  "OS pause screen off",
+        "state":  "state=PlaybackState {state=PLAYING(3), position=52234, buffered position=120000, speed=1.0, updated=33162816, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=0, error=null}",
+        "metadata":  "Swift Local Test, Lagu lokal, On this device"
+    }
+]

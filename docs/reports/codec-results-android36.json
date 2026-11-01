@@ -1,0 +1,100 @@
+[
+    {
+        "query":  "01",
+        "state":  "PLAYING(3)",
+        "position":  11,
+        "metadata":  "01 Test MP3, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=11, buffered position=12042, speed=1.0, updated=148754, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=7, error=null}"
+    },
+    {
+        "query":  "02",
+        "state":  "PLAYING(3)",
+        "position":  12,
+        "metadata":  "02 Test AAC, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=12, buffered position=12000, speed=1.0, updated=151624, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=8, error=null}"
+    },
+    {
+        "query":  "03",
+        "state":  "PLAYING(3)",
+        "position":  1,
+        "metadata":  "03 Test ADTS, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=1, buffered position=12077, speed=1.0, updated=154286, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=9, error=null}"
+    },
+    {
+        "query":  "04",
+        "state":  "PLAYING(3)",
+        "position":  21,
+        "metadata":  "04 Test WAV, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=21, buffered position=12000, speed=1.0, updated=156885, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=10, error=null}"
+    },
+    {
+        "query":  "05",
+        "state":  "PLAYING(3)",
+        "position":  1,
+        "metadata":  "05 Test FLAC, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=1, buffered position=12000, speed=1.0, updated=159730, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=11, error=null}"
+    },
+    {
+        "query":  "06",
+        "state":  "PLAYING(3)",
+        "position":  13,
+        "metadata":  "06 Test Vorbis, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=13, buffered position=12000, speed=1.0, updated=162470, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=12, error=null}"
+    },
+    {
+        "query":  "07",
+        "state":  "PLAYING(3)",
+        "position":  12,
+        "metadata":  "07 Test Opus, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=12, buffered position=12006, speed=1.0, updated=165151, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=13, error=null}"
+    },
+    {
+        "query":  "08",
+        "state":  "ERROR(7)",
+        "position":  0,
+        "metadata":  "08 Test AIFF, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=ERROR(7), position=0, buffered position=0, speed=1.0, updated=167514, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=14, error=File ini rusak atau codec audionya belum didukung perangkat. Coba file/format lain.}"
+    },
+    {
+        "query":  "09",
+        "state":  "ERROR(7)",
+        "position":  0,
+        "metadata":  "09 Test ALAC, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=ERROR(7), position=0, buffered position=0, speed=1.0, updated=170343, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=15, error=File ini rusak atau codec audionya belum didukung perangkat. Coba file/format lain.}"
+    },
+    {
+        "query":  "10",
+        "state":  "PLAYING(3)",
+        "position":  12,
+        "metadata":  "10 Test WebM, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=12, buffered position=12008, speed=1.0, updated=173331, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=16, error=null}"
+    },
+    {
+        "query":  "11",
+        "state":  "PLAYING(3)",
+        "position":  4,
+        "metadata":  "11 Test Matroska, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=4, buffered position=12008, speed=1.0, updated=175961, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=17, error=null}"
+    },
+    {
+        "query":  "12",
+        "state":  "PLAYING(3)",
+        "position":  0,
+        "metadata":  "12 Test MP2, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=0, buffered position=12016, speed=1.0, updated=178725, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=18, error=null}"
+    },
+    {
+        "query":  "Broken",
+        "state":  "ERROR(7)",
+        "position":  0,
+        "metadata":  "Broken audio, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=ERROR(7), position=0, buffered position=0, speed=1.0, updated=181559, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=19, error=File ini rusak atau codec audionya belum didukung perangkat. Coba file/format lain.}"
+    },
+    {
+        "query":  "04",
+        "state":  "PLAYING(3)",
+        "position":  13,
+        "metadata":  "04 Test WAV, Lagu lokal, On this device",
+        "detail":  "state=PlaybackState {state=PLAYING(3), position=13, buffered position=12000, speed=1.0, updated=184573, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=10, error=null}"
+    }
+]

@@ -1,0 +1,16 @@
+﻿[
+    {
+        "step":  "play-screen-off",
+        "state":  "state=PlaybackState {state=PLAYING(3), position=49802, buffered position=120000, speed=1.0, updated=33434362, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=0, error=null}",
+        "metadata":  "Swift Local Test, Lagu lokal, On this device",
+        "method":  "cmd media_session monitor media-session",
+        "screenState":  "Asleep (dumpsys power)"
+    },
+    {
+        "step":  "pause-screen-off",
+        "state":  "state=PlaybackState {state=PAUSED(2), position=57390, buffered position=120000, speed=1.0, updated=33441886, actions=16252927, custom actions=[Action:mName=\u0027Stop, mIcon=2131165276, mExtras=null], active item id=0, error=null}",
+        "metadata":  "Swift Local Test, Lagu lokal, On this device",
+        "method":  "cmd media_session monitor media-session",
+        "screenState":  "Asleep (dumpsys power)"
+    }
+]
